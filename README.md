@@ -22,11 +22,11 @@ The project consisted of below points:
 
 Examples of the functions we use from the Keras package from the TensorFlow package:
 
-- tf.keras.applications.EfficientNetV2B0 
-- tf.keras.callbacks.TensorBoard
-- tf.keras.callbacks.ModelCheckpoint
-- tf.keras.callbacks.ReduceLROnPlateau
-- tf.keras.Model.fit()
+- _tf.keras.applications.EfficientNetV2B0_ 
+- _tf.keras.callbacks.TensorBoard_
+- _tf.keras.callbacks.ModelCheckpoint_
+- _tf.keras.callbacks.ReduceLROnPlateau_
+- _tf.keras.Model.fit()_
 
 Finally, we presented the results with the use of the Seaborn library - simple charts with an accuracy of learning and validation, training loss and validation, and heatmaps with classification of each tumor.
 
