@@ -2,6 +2,8 @@
 
 More information about this project is in "Projekt Zaliczeniowy PDF.pdf" (only in Polish).
 
+Collection of analyzed data (MRI images): https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
 We processed 3200 MRI images of brain cancer with different classifications.
 
 We aimed to create a classification model for patients with suspected brain tumor development based on MRI images.
