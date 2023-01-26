@@ -1,4 +1,4 @@
-# TF_CNN
+# Tumor classification using CNN
 
 More information about this project is in "Projekt Zaliczeniowy PDF.pdf" (only in Polish).
 
